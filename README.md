@@ -66,10 +66,11 @@ The full picture will reveal itself soon. Stay tuned for:
 
 The following brilliant minds have contributed to Project-X:
 
-- **Project Architects & Initiators** - Building the foundation of mystery
-- *Contributors list is dynamically fetched from the repository*
+- **PRINCE RAJ SINGH**
+- **MAHISH GOUNDER**
+- **RONIT KUMAR**
+- **AKASH KUMAR**
 
-*Use `git log --format='%an' --all | sort -u` to see all contributors*
 
 ---
 
